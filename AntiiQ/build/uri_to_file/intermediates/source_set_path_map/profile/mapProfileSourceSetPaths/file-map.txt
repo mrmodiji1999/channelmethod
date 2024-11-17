@@ -1,0 +1,11 @@
+in.lazymanstudios.uri_to_file-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+in.lazymanstudios.uri_to_file-core-1.6.0-1 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+in.lazymanstudios.uri_to_file-jetified-window-1.0.0-beta04-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+in.lazymanstudios.uri_to_file-jetified-annotation-experimental-1.1.0-3 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+in.lazymanstudios.uri_to_file-main-4 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\uri_to_file-1.0.0\android\src\main\res
+in.lazymanstudios.uri_to_file-profile-5 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\uri_to_file-1.0.0\android\src\profile\res
+in.lazymanstudios.uri_to_file-pngs-6 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\uri_to_file\generated\res\pngs\profile
+in.lazymanstudios.uri_to_file-resValues-7 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\uri_to_file\generated\res\resValues\profile
+in.lazymanstudios.uri_to_file-mergeProfileResources-8 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\uri_to_file\intermediates\incremental\profile\mergeProfileResources\merged.dir
+in.lazymanstudios.uri_to_file-mergeProfileResources-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\uri_to_file\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+in.lazymanstudios.uri_to_file-profile-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\uri_to_file\intermediates\merged_res\profile\mergeProfileResources

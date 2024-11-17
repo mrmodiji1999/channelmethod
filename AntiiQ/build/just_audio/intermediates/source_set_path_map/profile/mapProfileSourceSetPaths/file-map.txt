@@ -1,0 +1,17 @@
+com.ryanheise.just_audio-lifecycle-runtime-2.3.1-0 C:\Users\wpenmster\.gradle\caches\transforms-4\0d0f9f95b6d2f0994564eed05be52756\transformed\lifecycle-runtime-2.3.1\res
+com.ryanheise.just_audio-jetified-window-java-1.0.0-beta04-1 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.just_audio-jetified-media2-session-1.2.1-2 C:\Users\wpenmster\.gradle\caches\transforms-4\52de91e53a07f1cf76cf6d1609ca4f64\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.just_audio-jetified-exoplayer-core-2.18.7-3 C:\Users\wpenmster\.gradle\caches\transforms-4\837fd55de6fb3e62e55effa248f76348\transformed\jetified-exoplayer-core-2.18.7\res
+com.ryanheise.just_audio-core-1.7.0-4 C:\Users\wpenmster\.gradle\caches\transforms-4\8482c58d1df763ac73d707fcf96ae7d5\transformed\core-1.7.0\res
+com.ryanheise.just_audio-jetified-window-1.0.0-beta04-5 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.just_audio-media-1.4.1-6 C:\Users\wpenmster\.gradle\caches\transforms-4\d81cfbf9f9565684e4cd02534bd5e68c\transformed\media-1.4.1\res
+com.ryanheise.just_audio-jetified-media2-common-1.2.1-7 C:\Users\wpenmster\.gradle\caches\transforms-4\fb73897fb7fd05cc08093fc7c3151cd8\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.just_audio-jetified-annotation-experimental-1.1.0-8 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.just_audio-main-9 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.9.40\android\src\main\res
+com.ryanheise.just_audio-profile-10 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.9.40\android\src\profile\res
+com.ryanheise.just_audio-profile-11 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\audio_session\intermediates\packaged_res\profile\packageProfileResources
+com.ryanheise.just_audio-pngs-12 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\just_audio\generated\res\pngs\profile
+com.ryanheise.just_audio-resValues-13 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\just_audio\generated\res\resValues\profile
+com.ryanheise.just_audio-mergeProfileResources-14 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\just_audio\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.ryanheise.just_audio-mergeProfileResources-15 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\just_audio\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.ryanheise.just_audio-profile-16 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\just_audio\intermediates\merged_res\profile\mergeProfileResources

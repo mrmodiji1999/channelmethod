@@ -1,0 +1,11 @@
+gabrimatic.info.restart.restart_app-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+gabrimatic.info.restart.restart_app-core-1.6.0-1 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+gabrimatic.info.restart.restart_app-jetified-window-1.0.0-beta04-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+gabrimatic.info.restart.restart_app-jetified-annotation-experimental-1.1.0-3 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+gabrimatic.info.restart.restart_app-main-4 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\restart_app-1.2.1\android\src\main\res
+gabrimatic.info.restart.restart_app-profile-5 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\restart_app-1.2.1\android\src\profile\res
+gabrimatic.info.restart.restart_app-pngs-6 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\restart_app\generated\res\pngs\profile
+gabrimatic.info.restart.restart_app-resValues-7 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\restart_app\generated\res\resValues\profile
+gabrimatic.info.restart.restart_app-mergeProfileResources-8 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\restart_app\intermediates\incremental\profile\mergeProfileResources\merged.dir
+gabrimatic.info.restart.restart_app-mergeProfileResources-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\restart_app\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+gabrimatic.info.restart.restart_app-profile-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\restart_app\intermediates\merged_res\profile\mergeProfileResources

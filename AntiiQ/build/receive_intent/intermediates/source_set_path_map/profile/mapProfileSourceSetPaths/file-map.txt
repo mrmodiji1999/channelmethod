@@ -1,0 +1,11 @@
+com.bhikadia.receive_intent-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+com.bhikadia.receive_intent-core-1.6.0-1 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+com.bhikadia.receive_intent-jetified-window-1.0.0-beta04-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+com.bhikadia.receive_intent-jetified-annotation-experimental-1.1.0-3 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+com.bhikadia.receive_intent-main-4 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\receive_intent-0.2.5\android\src\main\res
+com.bhikadia.receive_intent-profile-5 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\receive_intent-0.2.5\android\src\profile\res
+com.bhikadia.receive_intent-pngs-6 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\receive_intent\generated\res\pngs\profile
+com.bhikadia.receive_intent-resValues-7 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\receive_intent\generated\res\resValues\profile
+com.bhikadia.receive_intent-mergeProfileResources-8 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\receive_intent\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.bhikadia.receive_intent-mergeProfileResources-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\receive_intent\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.bhikadia.receive_intent-profile-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\receive_intent\intermediates\merged_res\profile\mergeProfileResources

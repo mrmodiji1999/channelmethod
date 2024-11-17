@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.bhikadia.receive_intent-profile-9:/layout/custom_dialog.xml",
+        "source": "com.bhikadia.receive_intent-core-1.6.0-1:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.bhikadia.receive_intent-profile-9:/layout/notification_template_part_chronometer.xml",
+        "source": "com.bhikadia.receive_intent-core-1.6.0-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.bhikadia.receive_intent-profile-9:/layout/notification_template_part_time.xml",
+        "source": "com.bhikadia.receive_intent-core-1.6.0-1:/layout/notification_template_part_time.xml"
+    }
+]

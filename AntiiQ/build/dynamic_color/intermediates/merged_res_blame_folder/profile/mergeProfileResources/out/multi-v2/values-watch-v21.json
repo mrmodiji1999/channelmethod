@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.material.plugins.dynamic_color-mergeProfileResources-29:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\217a7d760caed59069b5a0851ee2bfd4\\transformed\\appcompat-1.5.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.material.plugins.dynamic_color-profile-31:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\217a7d760caed59069b5a0851ee2bfd4\\transformed\\appcompat-1.5.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

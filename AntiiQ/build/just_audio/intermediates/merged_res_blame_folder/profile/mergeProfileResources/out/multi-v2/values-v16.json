@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ryanheise.just_audio-mergeProfileResources-13:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\8482c58d1df763ac73d707fcf96ae7d5\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ryanheise.just_audio-profile-15:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\8482c58d1df763ac73d707fcf96ae7d5\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "vn.hunghd.flutter.plugins.imagecropper.image_cropper-profile-17:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\a047fa409874d31b7b75b787a59d8ca5\\transformed\\appcompat-1.3.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "vn.hunghd.flutter.plugins.imagecropper.image_cropper-mergeProfileResources-15:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\a047fa409874d31b7b75b787a59d8ca5\\transformed\\appcompat-1.3.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
