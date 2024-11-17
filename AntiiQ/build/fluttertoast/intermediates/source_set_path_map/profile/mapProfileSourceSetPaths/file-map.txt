@@ -1,0 +1,11 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-1 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-3 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.8\android\src\main\res
+io.github.ponnamkarthik.toast.fluttertoast-profile-5 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.8\android\src\profile\res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\fluttertoast\generated\res\pngs\profile
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\fluttertoast\generated\res\resValues\profile
+io.github.ponnamkarthik.toast.fluttertoast-mergeProfileResources-8 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\fluttertoast\intermediates\incremental\profile\mergeProfileResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeProfileResources-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\fluttertoast\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-profile-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\fluttertoast\intermediates\merged_res\profile\mergeProfileResources

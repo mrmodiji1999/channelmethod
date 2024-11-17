@@ -1,0 +1,11 @@
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-core-1.6.0-1 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-1.0.0-beta04-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-annotation-experimental-1.1.0-3 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+com.baseflow.permissionhandler.permission_handler_android-main-4 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-10.3.6\android\src\main\res
+com.baseflow.permissionhandler.permission_handler_android-profile-5 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-10.3.6\android\src\profile\res
+com.baseflow.permissionhandler.permission_handler_android-pngs-6 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\permission_handler_android\generated\res\pngs\profile
+com.baseflow.permissionhandler.permission_handler_android-resValues-7 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\permission_handler_android\generated\res\resValues\profile
+com.baseflow.permissionhandler.permission_handler_android-mergeProfileResources-8 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\permission_handler_android\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.baseflow.permissionhandler.permission_handler_android-mergeProfileResources-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\permission_handler_android\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.baseflow.permissionhandler.permission_handler_android-profile-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\permission_handler_android\intermediates\merged_res\profile\mergeProfileResources

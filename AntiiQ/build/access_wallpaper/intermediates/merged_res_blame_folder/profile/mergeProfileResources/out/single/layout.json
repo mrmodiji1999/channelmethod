@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "sameh.gbibia.access_wallpaper-profile-9:/layout/notification_template_part_chronometer.xml",
+        "source": "sameh.gbibia.access_wallpaper-core-1.6.0-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "sameh.gbibia.access_wallpaper-profile-9:/layout/custom_dialog.xml",
+        "source": "sameh.gbibia.access_wallpaper-core-1.6.0-1:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "sameh.gbibia.access_wallpaper-profile-9:/layout/notification_template_part_time.xml",
+        "source": "sameh.gbibia.access_wallpaper-core-1.6.0-1:/layout/notification_template_part_time.xml"
+    }
+]

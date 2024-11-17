@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.erikas.audiotags-profile-9:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\ad49c866890b1787597446fda64e4e42\\transformed\\core-1.6.0\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.erikas.audiotags-mergeProfileResources-7:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\ad49c866890b1787597446fda64e4e42\\transformed\\core-1.6.0\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

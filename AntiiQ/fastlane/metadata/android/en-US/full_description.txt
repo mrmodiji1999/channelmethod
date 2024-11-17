@@ -1,0 +1,18 @@
+AntiiQ is an offline Android Music Player with some opinionated features and a distinctive User Interface tailored for large music libraries and collections.
+
+<b>Features</b>
+
+- Offline
+- It plays Audio
+- Directory selection
+- Customization options
+- Backup and restore user preferences and Playlists
+- Equalizer
+- Pitch, gain and speed tweaks
+- Embedded Cover Art support
+- Long press and drag to reorder playlist Items
+- Search functionality
+- Swipe a track left to access other options (Works with Songs, Album Songs, Genre Songs, Artist Songs and Playlist Songs)
+- Persistent selection feature: Tracks can be selected across multiple screens(Albums, All Songs, Artists and Genres) and the selected tracks can also be accessed in the "Selection" screen on the main dashboard.
+Long press a track to begin selection
+- Other subtle features that enhance user experience.

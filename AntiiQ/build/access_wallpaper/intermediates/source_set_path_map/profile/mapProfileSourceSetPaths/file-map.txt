@@ -1,0 +1,11 @@
+sameh.gbibia.access_wallpaper-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+sameh.gbibia.access_wallpaper-core-1.6.0-1 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+sameh.gbibia.access_wallpaper-jetified-window-1.0.0-beta04-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+sameh.gbibia.access_wallpaper-jetified-annotation-experimental-1.1.0-3 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+sameh.gbibia.access_wallpaper-main-4 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\access_wallpaper-1.0.0\android\src\main\res
+sameh.gbibia.access_wallpaper-profile-5 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\access_wallpaper-1.0.0\android\src\profile\res
+sameh.gbibia.access_wallpaper-pngs-6 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\access_wallpaper\generated\res\pngs\profile
+sameh.gbibia.access_wallpaper-resValues-7 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\access_wallpaper\generated\res\resValues\profile
+sameh.gbibia.access_wallpaper-mergeProfileResources-8 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\access_wallpaper\intermediates\incremental\profile\mergeProfileResources\merged.dir
+sameh.gbibia.access_wallpaper-mergeProfileResources-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\access_wallpaper\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+sameh.gbibia.access_wallpaper-profile-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\access_wallpaper\intermediates\merged_res\profile\mergeProfileResources

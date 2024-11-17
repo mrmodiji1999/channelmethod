@@ -1,0 +1,15 @@
+com.ryanheise.audioservice.audio_service-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.audioservice.audio_service-jetified-media2-session-1.2.1-1 C:\Users\wpenmster\.gradle\caches\transforms-4\52de91e53a07f1cf76cf6d1609ca4f64\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.audioservice.audio_service-core-1.6.0-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+com.ryanheise.audioservice.audio_service-media-1.6.0-3 C:\Users\wpenmster\.gradle\caches\transforms-4\aec3fc3ab6fe05dce13de8b4bd753792\transformed\media-1.6.0\res
+com.ryanheise.audioservice.audio_service-jetified-window-1.0.0-beta04-4 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.audioservice.audio_service-jetified-media2-common-1.2.1-5 C:\Users\wpenmster\.gradle\caches\transforms-4\fb73897fb7fd05cc08093fc7c3151cd8\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.audioservice.audio_service-jetified-annotation-experimental-1.1.0-6 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.audioservice.audio_service-main-7 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\audio_service-0.18.15\android\src\main\res
+com.ryanheise.audioservice.audio_service-profile-8 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\audio_service-0.18.15\android\src\profile\res
+com.ryanheise.audioservice.audio_service-pngs-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\audio_service\generated\res\pngs\profile
+com.ryanheise.audioservice.audio_service-resValues-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\audio_service\generated\res\resValues\profile
+com.ryanheise.audioservice.audio_service-mergeProfileResources-11 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\audio_service\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.ryanheise.audioservice.audio_service-mergeProfileResources-12 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\audio_service\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.ryanheise.audioservice.audio_service-profile-13 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\audio_service\intermediates\merged_res\profile\mergeProfileResources
+com.ryanheise.audioservice.audio_service-profile-14 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\audio_session\intermediates\packaged_res\profile\packageProfileResources

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.coleblvck.antiiq.app-mergeDebugResources-41:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\217a7d760caed59069b5a0851ee2bfd4\\transformed\\appcompat-1.5.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

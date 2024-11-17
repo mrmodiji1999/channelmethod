@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "in.lazymanstudios.uri_to_file-profile-9:/layout/custom_dialog.xml",
+        "source": "in.lazymanstudios.uri_to_file-core-1.6.0-1:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "in.lazymanstudios.uri_to_file-profile-9:/layout/notification_template_part_time.xml",
+        "source": "in.lazymanstudios.uri_to_file-core-1.6.0-1:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "in.lazymanstudios.uri_to_file-profile-9:/layout/notification_template_part_chronometer.xml",
+        "source": "in.lazymanstudios.uri_to_file-core-1.6.0-1:/layout/notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ryanheise.just_audio-mergeProfileResources-13:/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\8482c58d1df763ac73d707fcf96ae7d5\\transformed\\core-1.7.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "600",
+                        "endColumns": "100",
+                        "endOffsets": "696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\52de91e53a07f1cf76cf6d1609ca4f64\\transformed\\jetified-media2-session-1.2.1\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,256,350,471",
+                        "endColumns": "103,96,93,120,128",
+                        "endOffsets": "154,251,345,466,595"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ryanheise.just_audio-profile-15:/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\8482c58d1df763ac73d707fcf96ae7d5\\transformed\\core-1.7.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "600",
+                        "endColumns": "100",
+                        "endOffsets": "696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wpenmster\\.gradle\\caches\\transforms-4\\52de91e53a07f1cf76cf6d1609ca4f64\\transformed\\jetified-media2-session-1.2.1\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,256,350,471",
+                        "endColumns": "103,96,93,120,128",
+                        "endOffsets": "154,251,345,466,595"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+com.lucasjosino.on_audio_query.on_audio_query_android-jetified-window-java-1.0.0-beta04-0 C:\Users\wpenmster\.gradle\caches\transforms-4\308c6d8dceba24a8c0abd151132c55c2\transformed\jetified-window-java-1.0.0-beta04\res
+com.lucasjosino.on_audio_query.on_audio_query_android-lifecycle-viewmodel-2.3.1-1 C:\Users\wpenmster\.gradle\caches\transforms-4\8a432a014e6ce78c82b70ff643be1d7f\transformed\lifecycle-viewmodel-2.3.1\res
+com.lucasjosino.on_audio_query.on_audio_query_android-core-1.6.0-2 C:\Users\wpenmster\.gradle\caches\transforms-4\ad49c866890b1787597446fda64e4e42\transformed\core-1.6.0\res
+com.lucasjosino.on_audio_query.on_audio_query_android-jetified-window-1.0.0-beta04-3 C:\Users\wpenmster\.gradle\caches\transforms-4\ce80b361071e9da09077ace3b10096ea\transformed\jetified-window-1.0.0-beta04\res
+com.lucasjosino.on_audio_query.on_audio_query_android-jetified-annotation-experimental-1.1.0-4 C:\Users\wpenmster\.gradle\caches\transforms-4\fd9c3f1576895d16f6b6fde7baaf7e27\transformed\jetified-annotation-experimental-1.1.0\res
+com.lucasjosino.on_audio_query.on_audio_query_android-main-5 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\on_audio_query_android-1.1.0\android\src\main\res
+com.lucasjosino.on_audio_query.on_audio_query_android-profile-6 C:\Users\wpenmster\AppData\Local\Pub\Cache\hosted\pub.dev\on_audio_query_android-1.1.0\android\src\profile\res
+com.lucasjosino.on_audio_query.on_audio_query_android-pngs-7 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\on_audio_query_android\generated\res\pngs\profile
+com.lucasjosino.on_audio_query.on_audio_query_android-resValues-8 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\on_audio_query_android\generated\res\resValues\profile
+com.lucasjosino.on_audio_query.on_audio_query_android-mergeProfileResources-9 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\on_audio_query_android\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.lucasjosino.on_audio_query.on_audio_query_android-mergeProfileResources-10 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\on_audio_query_android\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.lucasjosino.on_audio_query.on_audio_query_android-profile-11 C:\Users\wpenmster\Desktop\channelmethod\AntiiQ\build\on_audio_query_android\intermediates\merged_res\profile\mergeProfileResources

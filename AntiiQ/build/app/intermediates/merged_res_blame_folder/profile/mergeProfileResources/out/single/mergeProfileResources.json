@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/raw_keep.xml.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/raw/keep.xml"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/drawable-hdpi_antiiq_icon.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/drawable-hdpi/antiiq_icon.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/drawable-v21_launch_background.xml.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/drawable-mdpi_antiiq_icon.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/drawable-mdpi/antiiq_icon.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/drawable-xxhdpi_antiiq_icon.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/drawable-xxhdpi/antiiq_icon.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/drawable-xhdpi_antiiq_icon.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/drawable-xhdpi/antiiq_icon.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/drawable-xxxhdpi_antiiq_icon.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/drawable-xxxhdpi/antiiq_icon.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.coleblvck.antiiq.app-profile-43:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.coleblvck.antiiq.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    }
+]
